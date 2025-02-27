@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    box-sizing: border-box;
+}
+.custom-logo {
+    filter: brightness(0) invert(1);
+  }
+  
